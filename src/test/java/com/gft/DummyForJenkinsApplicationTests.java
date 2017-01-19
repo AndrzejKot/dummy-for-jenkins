@@ -11,7 +11,7 @@ public class DummyForJenkinsApplicationTests {
 
 	@Test
 	public void contextLoads() {
-
+        assert false;
 	}
 
 }
